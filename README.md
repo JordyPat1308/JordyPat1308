@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jordy Mayorga  
 
 <p align="center">
-  <img src="https://github.com/JordyPat1308/JordyPat1308/blob/main/JordyMayorga.png" alt="Banner de presentación" width="600">
+  <img src="https://github.com/JordyMa1308/JordyMa1308/blob/main/JordyMayorga.png" alt="Banner de presentación" width="600">
 </p>
 
 💻 **Estudiante de Ingeniería en Tecnologías de la Información** en la **Escuela Politécnica Nacional**, cursando los últimos semestres.  
